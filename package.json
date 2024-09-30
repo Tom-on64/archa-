@@ -1,0 +1,32 @@
+{
+  "name": "archa-",
+  "version": "0.0.1",
+  "description": "App for ARCHA+ Hackathon",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "fck you"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tom-on64/archa-.git"
+  },
+  "keywords": [
+    "Hackathon",
+    "App",
+    "Mobile",
+    "Android"
+  ],
+  "author": "Tom-on",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tom-on64/archa-/issues"
+  },
+  "homepage": "https://github.com/Tom-on64/archa-#readme",
+  "dependencies": {
+    "@capacitor/android": "^6.1.2",
+    "@capacitor/core": "^6.1.2"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.1.2"
+  }
+}

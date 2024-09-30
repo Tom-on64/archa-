@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">archa-</string>
+    <string name="title_activity_main">archa-</string>
+    <string name="package_name">io.tomon.archa</string>
+    <string name="custom_url_scheme">io.tomon.archa</string>
+</resources>
